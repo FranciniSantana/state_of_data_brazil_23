@@ -2,9 +2,9 @@
 Este projeto tem o objetivo construir um produto de dados a partir do dataset [state_of_data_brazil_2023](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data) disponibilizado através da pesquisa realizada no final do ano de 2023 pela comunidade Datahackers e Bain Company.
 
 
-![imagem](state_of_data_brazil_2023\images\banner2.png)
+![Imagem](state_of_data_brazil_2023/images/banner2.png)
 
-
+<br>
 
 
 # 📅 2. Cronograma 
