@@ -35,4 +35,4 @@ Este projeto tem o objetivo construir um produto de dados a partir do dataset [s
 <br>
 
 ___
-<em> Obs: Para acompanhar mais sobre as descobertas e insights desse projeto, siga meu perfil no [Linkedin]("https://www.linkedin.com/in/francinisantana/") 💛 <em>
+<em> Obs: Para acompanhar mais sobre as descobertas e insights desse projeto, siga meu perfil no [Linkedin](https://www.linkedin.com/in/francinisantana/) 💛 <em>
