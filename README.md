@@ -4,7 +4,8 @@ Este projeto tem o objetivo construir um produto de dados a partir do dataset [s
 
 ![imagem](state_of_data_brazil_2023\images\banner2.png)
 
-<br>
+
+
 
 # 📅 2. Cronograma 
 
