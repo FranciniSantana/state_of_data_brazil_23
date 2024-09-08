@@ -12,8 +12,8 @@ Este projeto tem o objetivo construir um produto de dados a partir do dataset [s
 
 | Atividade               |Data Prevista | Data Conclusão |
 |-------------------------|--------------|-------------|
-| Discovery dos dados     | 21/08/24       | <ul><li>- [ ] </li>      |
-| ELT (Extrair, Carregar e Transformar) | 19/09/24   | <ul><li>- [ ] </li>       |
+| Discovery     | 21/09/24       | <ul><li>- [ ] </li>      |
+| ELT (Extrair, Carregar e Transformar) | 19/10/24   | <ul><li>- [ ] </li>       |
 | Documentação            | 02/11/24       | <ul><li>- [ ] </li>    |
 | Protótipo (Dashboard)   | 16/11/24       | <ul><li>- [ ] </li>      |
 | Dashboard               | 30/11/24       | <ul><li>- [ ] </li>     |
