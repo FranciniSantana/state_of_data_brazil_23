@@ -113,17 +113,17 @@ num | INTEGER | Indica que o campo é número inteiro
 | is_gestao_produtos_dados                           | BOOLEAN  | Gestão de produtos de dados, cuidando da visão dos produtos, backlog, feedback de usuários etc.         |
 | is_gestao_pessoas                                 | BOOLEAN  | Gestão de pessoas, apoio no desenvolvimento das pessoas, evolução de carreira                           |
 | str_desafios_gestor                                | STRING   | Quais são os 3 maiores desafios que você tem como gestor no atual momento?                              |
-| is_contratar_talentos                              | BOOLEAN  | a Contratar novos talentos.                                                                            |
-| is_reter_talentos                                 | BOOLEAN  | b Reter talentos.                                                                                     |
-| is_convencer_investimentos_dados                   | BOOLEAN  | c Convencer a empresa a aumentar os investimentos na área de dados.                                    |
-| is_gestao_equipes_remoto                           | BOOLEAN  | d Gestão de equipes no ambiente remoto.                                                                  |
-| is_gestao_projetos_multidisciplinares               | BOOLEAN  | e Gestão de projetos envolvendo áreas multidisciplinares da empresa.                                    |
-| is_organizar_informacoes                           | BOOLEAN  | f Organizar as informações e garantir a qualidade e confiabilidade.                                    |
-| is_processar_armazenar_dados                       | BOOLEAN  | g Conseguir processar e armazenar um alto volume de dados.                                              |
-| is_gerar_valor_negocios                            | BOOLEAN  | h Conseguir gerar valor para as áreas de negócios através de estudos e experimentos.                   |
-| is_manter_modelos_ml                              | BOOLEAN  | i Desenvolver e manter modelos Machine Learning em produção.                                           |
-| is_gerenciar_expectativa_negocios                  | BOOLEAN  | j Gerenciar a expectativa das áreas de negócio em relação às entregas das equipes de dados.             |
-| is_manutencao_projetos_modelos                     | BOOLEAN  | k Garantir a manutenção dos projetos e modelos em produção, em meio ao crescimento da empresa.          |
+| is_contratar_talentos                              | BOOLEAN  | Contratar novos talentos.                                                                            |
+| is_reter_talentos                                 | BOOLEAN  | Reter talentos.                                                                                     |
+| is_convencer_investimentos_dados                   | BOOLEAN  | Convencer a empresa a aumentar os investimentos na área de dados.                                    |
+| is_gestao_equipes_remoto                           | BOOLEAN  | Gestão de equipes no ambiente remoto.                                                                  |
+| is_gestao_projetos_multidisciplinares               | BOOLEAN  | Gestão de projetos envolvendo áreas multidisciplinares da empresa.                                    |
+| is_organizar_informacoes                           | BOOLEAN  | Organizar as informações e garantir a qualidade e confiabilidade.                                    |
+| is_processar_armazenar_dados                       | BOOLEAN  | Conseguir processar e armazenar um alto volume de dados.                                              |
+| is_gerar_valor_negocios                            | BOOLEAN  | Conseguir gerar valor para as áreas de negócios através de estudos e experimentos.                   |
+| is_manter_modelos_ml                              | BOOLEAN  | Desenvolver e manter modelos Machine Learning em produção.                                           |
+| is_gerenciar_expectativa_negocios                  | BOOLEAN  | Gerenciar a expectativa das áreas de negócio em relação às entregas das equipes de dados.             |
+| is_manutencao_projetos_modelos                     | BOOLEAN  | Garantir a manutenção dos projetos e modelos em produção, em meio ao crescimento da empresa.          |
 | is_inovacao_dados                                  | BOOLEAN  | Conseguir levar inovação para a empresa através dos dados.                                             |
 | is_garantir_roi                                    | BOOLEAN  | Garantir retorno do investimento (ROI) em projetos de dados.                                           |
 | is_dividir_tempo_tecnico_gestao                    | BOOLEAN  | Dividir o tempo entre entregas técnicas e gestão.                                                      |
