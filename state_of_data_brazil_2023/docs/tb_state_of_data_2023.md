@@ -89,7 +89,7 @@ num | INTEGER | Indica que o campo é número inteiro
 | str_forma_trabalho_atual                           | STRING   | Atualmente qual a sua forma de trabalho?                                                                  |
 | str_forma_trabalho_ideal                           | STRING   | Qual a forma de trabalho ideal para você?                                                               |
 | str_reacao_modelo_presencial                       | STRING   | Caso sua empresa decida pelo modelo 100% presencial qual será sua atitude?                              |
-| num_pessoas_dados                                  | INTEGER  | Qual o número aproximado de pessoas que atuam com dados na sua empresa hoje?                            |
+| str_qtd_pessoas_dados                              | STRING  | Qual o número aproximado de pessoas que atuam com dados na sua empresa hoje?                            |
 | str_papeis_time_dados                              | STRING   | Quais desses papéis/cargos fazem parte do time (ou chapter) de dados da sua empresa?                      |
 | is_analytics_engineer                              | BOOLEAN  | Analytics Engineer                                                                                      |
 | is_data_engineer                                   | BOOLEAN  | Engenharia de Dados/Data Engineer                                                                       |
