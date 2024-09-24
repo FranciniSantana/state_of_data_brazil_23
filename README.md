@@ -1,5 +1,5 @@
 # 🪶 Contexto
-Desde 2021, a comunidade Data Hackers e a Bain Company vêm desenvolvendo uma pesquisa com foco em obter um raio-X do mercado de dados. O relatório é disponibilizado em formato PDF para organizações e profissionais ao acessarem o site. Além disso, eles estimulam a comunidade de dados a desenvolver suas próprias análises, disponibilizando o dataset no [Kaggle](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data).
+Desde 2021, a comunidade Data Hackers e a Bain Company vêm desenvolvendo uma pesquisa com foco em obter um raio-X do mercado de dados. O relatório é disponibilizado em formato PDF para organizações e profissionais ao acessarem o [site](https://stateofdata.datahackers.com.br/). Além disso, eles estimulam a comunidade de dados a desenvolver suas próprias análises, disponibilizando o dataset no [Kaggle](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data).
 
 A última pesquisa, realizada no ano de 2023, reuniu 5.293 respostas com indicadores sobre perfil demográfico, formação, conhecimentos necessários para atuação na área, remuneração e muito mais.
 
@@ -14,17 +14,19 @@ Mesmo com fontes de dados disponíveis como o relatório do State of Data Brazil
 
 <br>
 
-# 👨🏾‍💻 Solução
-Pensando em solucionar esse problema e trazer uma orientação para quem está ingressando no mercado, com um recorte para a profissão de analista de dados, uma das mais pesquisadas nos últimos 12 meses, propõe-se o desenvolvimento de um painel interativo e acessível que sugere, com base na pesquisa do *State of Data* e na frequência das respostas, **o melhor caminho para aqueles que querem ingressar na área como Analista de Dados**.
-
-<br>
-
 ![Top Palavras Chaves Analista de Dados](state_of_data_brazil_2023/images/keywords_analista_de_dados.png)
 
 <br>
 
+# 👨🏾‍💻 Solução
+Pensando em solucionar esse problema e trazer uma orientação para quem está ingressando no mercado, com um recorte para a profissão de analista de dados, uma das mais pesquisadas nos últimos 12 meses, propõe-se o desenvolvimento de um painel interativo e acessível que sugere, com base na pesquisa do *State of Data* e na frequência das respostas, **o melhor caminho para aqueles que querem ingressar na área como Analista de Dados**.
+
+
+
+<br>
+
 # 🎯Objetivo
-Incentivar e inspirar profissionais que buscam atuar na área ingressando como Analista de Dados a planejarem sua rota de estudos com base nas informações mais atuais do mercado, utilizando as principais ferramentas da área.
+Esse projeto tem como objetivo incentivar e inspirar profissionais que buscam atuar na área ingressando como **Analista de Dados** a planejarem sua rota de estudos com base nas informações mais atuais do mercado, utilizando as principais ferramentas da área.
 
 <br>
 
@@ -44,9 +46,9 @@ Incentivar e inspirar profissionais que buscam atuar na área ingressando como A
 | Atividade               |Data Prevista | Data Conclusão |
 |-------------------------|--------------|-------------|
 | Discovery     | 21/09/24       | <ul><li>- [x] </li>      |
-| Documentação            | 05/10/24       | <ul><li>- [ ] </li>    |
-| ELT (Extrair, Carregar e Transformar) | 26/10/24   | <ul><li>- [ ] </li>       |
-| Protótipo (Dashboard)   | 09/11/24       | <ul><li>- [ ] </li>      |
+| Documentação            | 05/10/24       | <ul><li>- [x] </li>    |
+| Protótipo (Dashboard)  | 26/10/24   | <ul><li>- [ ] </li>       |
+| ELT (Extrair, Carregar e Transformar)   | 09/11/24       | <ul><li>- [ ] </li>      |
 | Dashboard               | 30/11/24       | <ul><li>- [ ] </li>     |
 
 <br>
