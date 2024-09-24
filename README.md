@@ -1,4 +1,7 @@
 # 🪶 Contexto
+
+![Data Hackers State of Data Brazil 2023](state_of_data_brazil_2023/images/banner2.png)
+
 Desde 2021, a comunidade Data Hackers e a Bain Company vêm desenvolvendo uma pesquisa com foco em obter um raio-X do mercado de dados. O relatório é disponibilizado em formato PDF para organizações e profissionais ao acessarem o [site](https://stateofdata.datahackers.com.br/). Além disso, eles estimulam a comunidade de dados a desenvolver suas próprias análises, disponibilizando o dataset no [Kaggle](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data).
 
 A última pesquisa, realizada no ano de 2023, reuniu 5.293 respostas com indicadores sobre perfil demográfico, formação, conhecimentos necessários para atuação na área, remuneração e muito mais.
@@ -14,8 +17,11 @@ Mesmo com fontes de dados disponíveis como o relatório do State of Data Brazil
 
 <br>
 
+![Volume de Busca Analista de Dados](state_of_data_brazil_2023/images/volume_buscas_analista.png)
+
 ![Top Palavras Chaves Analista de Dados](state_of_data_brazil_2023/images/keywords_analista_de_dados.png)
 
+![Google Trends Top Áreas](state_of_data_brazil_2023/images/google_trends.png)
 <br>
 
 # 👨🏾‍💻 Solução
