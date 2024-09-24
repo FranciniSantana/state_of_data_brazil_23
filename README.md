@@ -1,18 +1,49 @@
-# 💻 1. Sobre o projeto 
-Este projeto tem o objetivo construir um produto de dados a partir do dataset [state_of_data_brazil_2023](https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023/data) disponibilizado através da pesquisa realizada no final do ano de 2023 pela comunidade Data Hackers e Bain & Company.
+# 🪶 Contexto
+Desde 2021, a Data Hacker e a Bain Company vêm desenvolvendo uma pesquisa com foco em obter um raio-X do mercado de dados. O relatório é disponibilizado em formato PDF para organizações e profissionais ao acessarem o site. Além disso, eles estimulam a comunidade de dados a desenvolver suas próprias análises, disponibilizando o dataset no Kaggle.
 
-
-![Imagem](state_of_data_brazil_2023/images/banner2.png)
+A última pesquisa, realizada no ano de 2023, reuniu 5.293 respostas com indicadores sobre perfil demográfico, formação, conhecimentos necessários para atuação na área, remuneração e muito mais.
 
 <br>
 
+# 🔎 Desafio
+Existe um interesse crescente no mercado de trabalho por vagas na área de dados, onde um dos principais fatores de motivação é o salário médio inicial, considerado acima da média em comparação a profissões tradicionais.
 
-# 📅 2. Cronograma 
+O fato é que muitas pessoas estão buscando uma oportunidade para entrar no mercado de dados, seja vindo de uma transição de carreira mais consolidada ou iniciando uma nova, e não sabem qual o melhor caminho a seguir.
+
+Mesmo com fontes de dados disponíveis com o Raio-X do mercado, o público em transição acaba não consumindo esses dados como fonte primária para a tomada de decisão.
+
+<br>
+
+# 👨🏾‍💻 Solução
+Pensando em solucionar esse problema e trazer uma orientação para quem está ingressando no mercado, com um recorte para a profissão de analista de dados, uma das mais pesquisadas nos últimos 12 meses, propõe-se o desenvolvimento de um painel interativo e acessível que sugere, com base na pesquisa do *State of Data* e na frequência das respostas, o melhor caminho para aqueles que querem ingressar na área como Analista de Dados.
+
+<br>
+
+![Top Palavras Chaves Analista de Dados](state_of_data_brazil_2023/images/keywords_analista_de_dados.png)
+
+<br>
+
+# 🎯Objetivo
+Incentivar e inspirar profissionais que buscam atuar na área ingressando como Analista de Dados a planejarem sua rota de estudos com base nas informações mais atuais do mercado, utilizando as principais ferramentas da área.
+
+<br>
+
+# 🔑 Métricas de sucesso
+- Alcançar 1.000 acessos no Dashboard em 30 dias
+- Aumentar em 10% o número de downloads da base de dados original do Kaggle em 30 dias
+
+<br>
+
+![Métricas Kaggle](state_of_data_brazil_2023/images/metricas_kaggle.png)
+
+<br>
+
+# 📅 Cronograma 
 
 
 | Atividade               |Data Prevista | Data Conclusão |
 |-------------------------|--------------|-------------|
-| Discovery     | 21/09/24       | <ul><li>- [ ] </li>      |
+| Discovery     | 21/09/24       | <ul><li>- [x] </li>      |
 | Documentação            | 05/10/24       | <ul><li>- [ ] </li>    |
 | ELT (Extrair, Carregar e Transformar) | 26/10/24   | <ul><li>- [ ] </li>       |
 | Protótipo (Dashboard)   | 09/11/24       | <ul><li>- [ ] </li>      |
