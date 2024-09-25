@@ -22,6 +22,10 @@ Mesmo com fontes de dados disponíveis como o relatório do State of Data Brazil
 ![Top Palavras Chaves Analista de Dados](state_of_data_brazil_2023/images/keywords_analista_de_dados.png)
 
 ![Google Trends Top Áreas](state_of_data_brazil_2023/images/google_trends.png)
+
+
+*<center> Legenda: Análise de Palavras Chaves no Ubbersugest e Google Trends </center>*
+
 <br>
 
 # 👨🏾‍💻 Solução
