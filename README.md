@@ -1,3 +1,17 @@
+# Indice
+
+
+
+- [🪶 Contexto](#-contexto)
+- [🔎 Oportunidade](#-oportunidade)
+- [👨🏾‍💻 Proposta de Solução](#-proposta-de-solu-o)
+- [🔑 Métricas de sucesso](#-m-tricas-de-sucesso)
+- [🔨  Principais Ferramentas / Tecnologias](#-principais-ferramentas-tecnologias)
+- [🗺️  Arquitetura da pipeline de dados](#-arquitetura-da-pipeline-de-dados)
+- [📅 Cronograma](#-cronograma)
+
+<br>
+
 # 🪶 Contexto
 
 ![Data Hackers State of Data Brazil 2023](state_of_data_brazil_2023/images/banner2.png)
