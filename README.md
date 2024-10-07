@@ -58,7 +58,7 @@ Pensando em solucionar esse problema e trazer uma orientação para quem está i
 
 <br>
 
-# 🗺️  Arquitetura ETL 
+# 🗺️  Arquitetura da pipeline de dados 
 
 ![Arquitetura](state_of_data_brazil_2023/images/arquitetura.excalidraw.png)
 
