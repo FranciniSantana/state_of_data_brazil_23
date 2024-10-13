@@ -4,8 +4,8 @@
 
 - [Contexto](#-contexto)
 - [Oportunidade](#-oportunidade)
-- [Solução](#-solucao)
-- [Métricas](#-metricas)
+- [Proposta](#-proposta)
+- [KPIS](#-KPIS)
 - [Ferramentas](#-ferramentas)
 - [Arquitetura](#-arquitetura)
 - [Cronograma](#-cronograma)
@@ -42,14 +42,14 @@ Mesmo com fontes de dados disponíveis como o relatório do State of Data Brazil
 
 <br>
 
-# 👨🏾‍💻 Solução
+# 👨🏾‍💻 Proposta
 Pensando em solucionar esse problema e trazer uma orientação para quem está ingressando no mercado, com um recorte para a profissão de analista de dados, uma das mais pesquisadas nos últimos 12 meses, propõe-se o desenvolvimento de um painel interativo e acessível que sugere, com base na pesquisa do *State of Data* e na frequência das respostas, **o melhor caminho para aqueles que querem ingressar na área como Analista de Dados**.
 
 
 
 <br>
 
-# 🔑 Métricas
+# 🔑 KPIS
 Como métricas de sucesso do projeto, estabeleceu-se as seguintes:
 
 - Alcançar 1.000 acessos no Dashboard em 30 dias
@@ -63,7 +63,7 @@ Como métricas de sucesso do projeto, estabeleceu-se as seguintes:
 
 
 
-# 🔨 Ferramentas 
+# 🔨 Ferramentas
 
 - VScode
 - Git/Github
@@ -74,7 +74,8 @@ Como métricas de sucesso do projeto, estabeleceu-se as seguintes:
 
 <br>
 
-# 🗺️ Arquitetura 
+# 🗺️ Arquitetura
+Foi planejada a seguinte arquitetura para o desenvolvimento da pipeline de dados:
 
 ![Arquitetura](state_of_data_brazil_2023/images/arquitetura.excalidraw.png)
 
