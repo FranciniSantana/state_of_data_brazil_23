@@ -4,10 +4,10 @@
 
 - [🪶 Contexto](#-contexto)
 - [🔎 Oportunidade](#-oportunidade)
-- [👨🏾‍💻 Solução](#-proposta-de-solucao)
-- [🔑 Métricas](#-metricas-de-sucesso)
-- [🔨 Ferramentas](#-principais-ferramentas)
-- [🗺️ Arquitetura](#-arquitetura-da-pipeline-de-dados)
+- [👨🏾‍💻 Solução](#-solucao)
+- [🔑 Métricas](#-metricas)
+- [🔨 Ferramentas](#ferramentas)
+- [🗺️ Arquitetura](#-arquitetura)
 - [📅 Cronograma](#-cronograma)
 
 <br>
