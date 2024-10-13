@@ -4,9 +4,9 @@
 
 - [🪶 Contexto](#-contexto)
 - [🔎 Oportunidade](#-oportunidade)
-- [👨🏾‍💻 Proposta de Solução](#-proposta-de-solu-o)
-- [🔑 Métricas de sucesso](#-m-tricas-de-sucesso)
-- [🔨  Principais Ferramentas / Tecnologias](#-principais-ferramentas-tecnologias)
+- [👨🏾‍💻 Proposta de Solução](#-proposta-de-solucao)
+- [🔑 Métricas de sucesso](#-metricas-de-sucesso)
+- [🔨  Principais Ferramentas](#-principais-ferramentas)
 - [🗺️  Arquitetura da pipeline de dados](#-arquitetura-da-pipeline-de-dados)
 - [📅 Cronograma](#-cronograma)
 
@@ -61,7 +61,7 @@ Pensando em solucionar esse problema e trazer uma orientação para quem está i
 
 
 
-# 🔨  Principais Ferramentas / Tecnologias 
+# 🔨  Principais Ferramentas 
 
 - VScode
 - Git/Github
@@ -81,16 +81,16 @@ Pensando em solucionar esse problema e trazer uma orientação para quem está i
 # 📅 Cronograma 
 
 
-| Atividade               |Data Prevista | Data Conclusão |
-|-------------------------|--------------|-------------|
-| Discovery     | 21/09/24       | <ul><li>- [x] </li>      |
-| Documentação Tabela camada Raw           | 05/10/24       | <ul><li>- [x] </li>    |
-| Documentação Tabela camada Trusted           | 05/10/24       | <ul><li>- [x] </li>    |
-| ELT - Tabela camadas Stage / RAW   | 19/10/24   | <ul><li>- [ ] </li> |
-| ELT - Tabela Trusted    | 26/10/24   | <ul><li>- [ ] </li> |
-| Protótipo (Dashboard)  | 09/11/24       | <ul><li>- [ ] </li>      |
-| ELT - Tabela camada Refined    | 23/11/24   | <ul><li>- [ ] </li> |
-| Dashboard               | 07/12/24       | <ul><li>- [ ] </li>     |
+| Atividade               |Data Prevista | Data Conclusão | Entregas |
+|-------------------------|--------------|-------------|-------------|
+| Discovery     | 21/09/24       | <ul><li>- [x] </li>      | - |
+| Documentação Tabela camada Raw           | 05/10/24       | <ul><li>- [x] </li>    | [ Ver documentação RAW](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/docs/raw_tb_state_of_data_2023.md)
+| Documentação Tabela camada Trusted           | 05/10/24       | <ul><li>- [x] </li>    | [Ver documentação TRUSTED](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/docs/trusted_tb_state_of_data_2023.md)
+| ELT - Tabela camadas Stage / RAW   | 19/10/24   | <ul><li>- [ ] </li> | [Ver script ingestão Cloud Storage ](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/ingestion/to_storage.py) / [Ver script ingestão BigQuery ](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/ingestion/to_bq_raw.py)
+| ELT - Tabela Trusted    | 26/10/24   | <ul><li>- [ ] </li> | Aguardando
+| Protótipo (Dashboard)  | 09/11/24       | <ul><li>- [ ] </li>      |Aguardando
+| ELT - Tabela camada Refined    | 23/11/24   | <ul><li>- [ ] </li> |Aguardando
+| Dashboard               | 07/12/24       | <ul><li>- [ ] </li>     |Aguardando
 
 <br>
 
