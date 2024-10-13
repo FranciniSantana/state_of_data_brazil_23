@@ -4,10 +4,10 @@
 
 - [🪶 Contexto](#-contexto)
 - [🔎 Oportunidade](#-oportunidade)
-- [👨🏾‍💻 Proposta de Solução](#-proposta-de-solucao)
-- [🔑 Métricas de sucesso](#-metricas-de-sucesso)
-- [🔨  Principais Ferramentas](#-principais-ferramentas)
-- [🗺️  Arquitetura da pipeline de dados](#-arquitetura-da-pipeline-de-dados)
+- [👨🏾‍💻 Solução](#-proposta-de-solucao)
+- [🔑 Métricas](#-metricas-de-sucesso)
+- [🔨 Ferramentas](#-principais-ferramentas)
+- [🗺️ Arquitetura](#-arquitetura-da-pipeline-de-dados)
 - [📅 Cronograma](#-cronograma)
 
 <br>
@@ -42,14 +42,14 @@ Mesmo com fontes de dados disponíveis como o relatório do State of Data Brazil
 
 <br>
 
-# 👨🏾‍💻 Proposta de Solução
+# 👨🏾‍💻 Solução
 Pensando em solucionar esse problema e trazer uma orientação para quem está ingressando no mercado, com um recorte para a profissão de analista de dados, uma das mais pesquisadas nos últimos 12 meses, propõe-se o desenvolvimento de um painel interativo e acessível que sugere, com base na pesquisa do *State of Data* e na frequência das respostas, **o melhor caminho para aqueles que querem ingressar na área como Analista de Dados**.
 
 
 
 <br>
 
-# 🔑 Métricas de sucesso
+# 🔑 Métricas
 - Alcançar 1.000 acessos no Dashboard em 30 dias
 - Aumentar em 10% o número de downloads da base de dados original do Kaggle em 30 dias
 
@@ -61,7 +61,7 @@ Pensando em solucionar esse problema e trazer uma orientação para quem está i
 
 
 
-# 🔨  Principais Ferramentas 
+# 🔨 Ferramentas 
 
 - VScode
 - Git/Github
@@ -72,7 +72,7 @@ Pensando em solucionar esse problema e trazer uma orientação para quem está i
 
 <br>
 
-# 🗺️  Arquitetura da pipeline de dados 
+# 🗺️ Arquitetura 
 
 ![Arquitetura](state_of_data_brazil_2023/images/arquitetura.excalidraw.png)
 
