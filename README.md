@@ -2,13 +2,13 @@
 
 
 
-- [🪶 Contexto](#contexto)
-- [🔎 Oportunidade](#oportunidade)
-- [👨🏾‍💻 Solução](#solucao)
-- [🔑 Métricas](#metricas)
-- [🔨 Ferramentas](#ferramentas)
-- [🗺️ Arquitetura](#arquitetura)
-- [📅 Cronograma](#cronograma)
+- [Contexto](#-contexto)
+- [Oportunidade](#-oportunidade)
+- [Solução](#-solucao)
+- [Métricas](#-metricas)
+- [Ferramentas](#-ferramentas)
+- [Arquitetura](#-arquitetura)
+- [Cronograma](#-cronograma)
 
 <br>
 
@@ -50,6 +50,8 @@ Pensando em solucionar esse problema e trazer uma orientação para quem está i
 <br>
 
 # 🔑 Métricas
+Como métricas de sucesso do projeto, estabeleceu-se as seguintes:
+
 - Alcançar 1.000 acessos no Dashboard em 30 dias
 - Aumentar em 10% o número de downloads da base de dados original do Kaggle em 30 dias
 
