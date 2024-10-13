@@ -2,13 +2,13 @@
 
 
 
-- [🪶 Contexto](#-contexto)
-- [🔎 Oportunidade](#-oportunidade)
-- [👨🏾‍💻 Solução](#-solucao)
-- [🔑 Métricas](#-metricas)
+- [🪶 Contexto](#contexto)
+- [🔎 Oportunidade](#oportunidade)
+- [👨🏾‍💻 Solução](#solucao)
+- [🔑 Métricas](#metricas)
 - [🔨 Ferramentas](#ferramentas)
-- [🗺️ Arquitetura](#-arquitetura)
-- [📅 Cronograma](#-cronograma)
+- [🗺️ Arquitetura](#arquitetura)
+- [📅 Cronograma](#cronograma)
 
 <br>
 
