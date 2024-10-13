@@ -23,15 +23,15 @@
 |P1_e_3|STRING|Experiência prejudicada devido à minha identidade de gênero
 |P1_e_4|STRING|Experiência prejudicada devido ao fato de ser PCD
 |P1_f|STRING|Aspectos prejudicados
-|P1_f_1'|STRING|Quantidade de oportunidades de emprego/vagas recebidas
-|P1_f_2'|STRING|Senioridade das vagas recebidas em relação à sua experiência
-|P1_f_3'|STRING|Aprovação em processos seletivos/entrevistas
-|P1_f_4'|STRING|Oportunidades de progressão de carreira
-|P1_f_5'|STRING|Velocidade de progressão de carreira
-|P1_f_6'|STRING|Nível de cobrança no trabalho/Stress no trabalho
-|P1_f_7'|STRING|Atenção dada diante das minhas opiniões e ideias
-|P1_f_8'|STRING|Relação com outros membros da empresa, em momentos de trabalho
-|P1_f_9'|STRING|Relação com outros membros da empresa, em momentos de integração e outros momentos fora do trabalho
+|P1_f_1|STRING|Quantidade de oportunidades de emprego/vagas recebidas
+|P1_f_2|STRING|Senioridade das vagas recebidas em relação à sua experiência
+|P1_f_3|STRING|Aprovação em processos seletivos/entrevistas
+|P1_f_4|STRING|Oportunidades de progressão de carreira
+|P1_f_5|STRING|Velocidade de progressão de carreira
+|P1_f_6|STRING|Nível de cobrança no trabalho/Stress no trabalho
+|P1_f_7|STRING|Atenção dada diante das minhas opiniões e ideias
+|P1_f_8|STRING|Relação com outros membros da empresa, em momentos de trabalho
+|P1_f_9|STRING|Relação com outros membros da empresa, em momentos de integração e outros momentos fora do trabalho
 |P1_g|STRING|Vive no Brasil
 |P1_i|STRING|Estado onde mora
 |P1_i_1|STRING|UF onde mora
