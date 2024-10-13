@@ -7,7 +7,7 @@
 - [Proposta](#-proposta)
 - [KPIS](#-KPIS)
 - [Ferramentas](#-ferramentas)
-- [Arquitetura](#-arquitetura)
+- [Pipeline](#-pipeline)
 - [Cronograma](#-cronograma)
 
 <br>
@@ -74,7 +74,7 @@ Como métricas de sucesso do projeto, estabeleceu-se as seguintes:
 
 <br>
 
-# 🗺️ Arquitetura
+# 🗺️ Pipeline
 Foi planejada a seguinte arquitetura para o desenvolvimento da pipeline de dados:
 
 ![Arquitetura](state_of_data_brazil_2023/images/arquitetura.excalidraw.png)
