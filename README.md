@@ -89,8 +89,8 @@ Foi planejada a seguinte arquitetura para o desenvolvimento da pipeline de dados
 | Discovery     | 21/09/24       | <ul><li>- [x] </li>      | - |
 | Documentação Tabela camada Raw           | 05/10/24       | <ul><li>- [x] </li>    | [ Ver documentação RAW](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/docs/raw_tb_state_of_data_2023.md)
 | Documentação Tabela camada Trusted           | 05/10/24       | <ul><li>- [x] </li>    | [Ver documentação TRUSTED](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/docs/trusted_tb_state_of_data_2023.md)
-| ELT - Tabela camadas Stage / RAW   | 19/10/24   | <ul><li>- [ ] </li> | [Ver script ingestão Cloud Storage ](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/ingestion/to_storage.py) / [Ver script ingestão BigQuery ](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/ingestion/to_bq_raw.py)
-| ELT - Tabela Trusted    | 26/10/24   | <ul><li>- [ ] </li> | Aguardando
+| ELT - Tabela camadas Stage / RAW   | 19/10/24   | <ul><li>- [x] </li> | [Ver script ingestão Cloud Storage ](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/ingestion/to_storage.py) / [Ver script ingestão BigQuery ](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/ingestion/to_bq_raw.py)
+| ELT - Tabela Trusted    | 26/10/24   | <ul><li>- [x] </li> | [Ver procedure SQL](https://github.com/FranciniSantana/state_of_data_brazil_23/blob/main/state_of_data_brazil_2023/transformation/prc_tb_state_of_data_23.sql)
 | Protótipo (Dashboard)  | 09/11/24       | <ul><li>- [ ] </li>      |Aguardando
 | ELT - Tabela camada Refined    | 23/11/24   | <ul><li>- [ ] </li> |Aguardando
 | Dashboard               | 07/12/24       | <ul><li>- [ ] </li>     |Aguardando
